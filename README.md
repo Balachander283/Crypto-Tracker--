@@ -1,6 +1,6 @@
 # Crypto Tracker - Android App
 
-![Crypto Tracker App Screenshot]([app_screenshot.png](https://github.com/Balachander283/Crypto-Tracker--/issues/1#issue-1928994201))
+![Crypto Tracker App Screenshot]([https://github.com/Balachander283/Crypto-Tracker--/issues/1#issue-1928994201])
 
 ## Overview
 
